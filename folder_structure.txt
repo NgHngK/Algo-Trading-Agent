@@ -1,0 +1,7 @@
+finbert-stock/
+├── README.txt
+├── requirements.txt
+├── news_api.txt
+├── sentiment.py
+├── fetch_news.py
+└── train_model.py

@@ -1,0 +1,12 @@
+The model uses one completed trading day to predict the next trading session's open.
+
+Main features:
+- daily FinBERT sentiment
+- article count
+- open, high, low, close, volume
+
+Target used for training:
+target_return = next_open / current_close - 1
+
+The predicted return is converted back to a predicted next open price.
+Baseline prediction: next_open = current_close

@@ -1,0 +1,7 @@
+newsapi-python==0.2.7
+pandas
+yfinance
+numpy
+transformers
+torch
+scikit-learn
