@@ -3,7 +3,7 @@ import json
 from datetime import datetime, timedelta
 from newsapi import NewsApiClient
 
-API_KEY = "5c4fd7ac32654e959614d038f591a5c9"  
+API_KEY = ""  
 
 def fetch_by_day(ticker: str, start: str, end: str):
     """
