@@ -1,0 +1,16 @@
+{
+  "mode": "full",
+  "companies": 50,
+  "rows": 424859,
+  "date_start": "1962-01-02 00:00:00",
+  "date_end": "2023-12-28 00:00:00",
+  "news_rows": 348410,
+  "universe_train_end": "2016-09-17 21:35:59.999999",
+  "timestamp_audit": {
+    "rows": 348410,
+    "parsed": 348410,
+    "unparsed": 0,
+    "date_only_ratio": 0.9983266840791022,
+    "distinct_precise_hours": 24
+  }
+}

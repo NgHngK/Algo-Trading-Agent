@@ -1,0 +1,15 @@
+feature,importance
+volume_change_mean_lb,0.23443750185810786
+high_low_range,0.18160592057513414
+return_vol_lb,0.17922903842639115
+intraday_return,0.12791473372032672
+return_mean_lb,0.10928874984776642
+daily_return,0.09879722075025252
+open_gap,0.05213479702647106
+volume_change,0.016592037795550053
+sentiment_mean,0.0
+news_count,0.0
+sentiment_std,0.0
+sentiment_mean_lb,0.0
+sentiment_std_lb,0.0
+news_count_lb,0.0

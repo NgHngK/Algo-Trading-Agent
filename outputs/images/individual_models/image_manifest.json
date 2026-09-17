@@ -1,0 +1,401 @@
+[
+  {
+    "number": 1,
+    "filename": "train_aa_random_forest_next_open_1000dpi.png",
+    "category": "next_open",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open\\train_aa_random_forest_next_open_1000dpi.png"
+  },
+  {
+    "number": 2,
+    "filename": "train_aa_random_forest_target_return_1000dpi.png",
+    "category": "target_return",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return\\train_aa_random_forest_target_return_1000dpi.png"
+  },
+  {
+    "number": 3,
+    "filename": "train_aa_random_forest_residuals_1000dpi.png",
+    "category": "residuals",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals\\train_aa_random_forest_residuals_1000dpi.png"
+  },
+  {
+    "number": 4,
+    "filename": "train_aa_random_forest_absolute_error_1000dpi.png",
+    "category": "absolute_errors",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors\\train_aa_random_forest_absolute_error_1000dpi.png"
+  },
+  {
+    "number": 5,
+    "filename": "train_aa_random_forest_actual_vs_predicted_1000dpi.png",
+    "category": "scatter",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter\\train_aa_random_forest_actual_vs_predicted_1000dpi.png"
+  },
+  {
+    "number": 6,
+    "filename": "train_aa_random_forest_residual_histogram_1000dpi.png",
+    "category": "residual_histograms",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms\\train_aa_random_forest_residual_histogram_1000dpi.png"
+  },
+  {
+    "number": 7,
+    "filename": "train_aa_extra_trees_next_open_1000dpi.png",
+    "category": "next_open",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open\\train_aa_extra_trees_next_open_1000dpi.png"
+  },
+  {
+    "number": 8,
+    "filename": "train_aa_extra_trees_target_return_1000dpi.png",
+    "category": "target_return",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return\\train_aa_extra_trees_target_return_1000dpi.png"
+  },
+  {
+    "number": 9,
+    "filename": "train_aa_extra_trees_residuals_1000dpi.png",
+    "category": "residuals",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals\\train_aa_extra_trees_residuals_1000dpi.png"
+  },
+  {
+    "number": 10,
+    "filename": "train_aa_extra_trees_absolute_error_1000dpi.png",
+    "category": "absolute_errors",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors\\train_aa_extra_trees_absolute_error_1000dpi.png"
+  },
+  {
+    "number": 11,
+    "filename": "train_aa_extra_trees_actual_vs_predicted_1000dpi.png",
+    "category": "scatter",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter\\train_aa_extra_trees_actual_vs_predicted_1000dpi.png"
+  },
+  {
+    "number": 12,
+    "filename": "train_aa_extra_trees_residual_histogram_1000dpi.png",
+    "category": "residual_histograms",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms\\train_aa_extra_trees_residual_histogram_1000dpi.png"
+  },
+  {
+    "number": 13,
+    "filename": "train_aa_xgboost_next_open_1000dpi.png",
+    "category": "next_open",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open\\train_aa_xgboost_next_open_1000dpi.png"
+  },
+  {
+    "number": 14,
+    "filename": "train_aa_xgboost_target_return_1000dpi.png",
+    "category": "target_return",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return\\train_aa_xgboost_target_return_1000dpi.png"
+  },
+  {
+    "number": 15,
+    "filename": "train_aa_xgboost_residuals_1000dpi.png",
+    "category": "residuals",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals\\train_aa_xgboost_residuals_1000dpi.png"
+  },
+  {
+    "number": 16,
+    "filename": "train_aa_xgboost_absolute_error_1000dpi.png",
+    "category": "absolute_errors",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors\\train_aa_xgboost_absolute_error_1000dpi.png"
+  },
+  {
+    "number": 17,
+    "filename": "train_aa_xgboost_actual_vs_predicted_1000dpi.png",
+    "category": "scatter",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter\\train_aa_xgboost_actual_vs_predicted_1000dpi.png"
+  },
+  {
+    "number": 18,
+    "filename": "train_aa_xgboost_residual_histogram_1000dpi.png",
+    "category": "residual_histograms",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms\\train_aa_xgboost_residual_histogram_1000dpi.png"
+  },
+  {
+    "number": 19,
+    "filename": "validation_aa_random_forest_next_open_1000dpi.png",
+    "category": "next_open",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open\\validation_aa_random_forest_next_open_1000dpi.png"
+  },
+  {
+    "number": 20,
+    "filename": "validation_aa_random_forest_target_return_1000dpi.png",
+    "category": "target_return",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return\\validation_aa_random_forest_target_return_1000dpi.png"
+  },
+  {
+    "number": 21,
+    "filename": "validation_aa_random_forest_residuals_1000dpi.png",
+    "category": "residuals",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals\\validation_aa_random_forest_residuals_1000dpi.png"
+  },
+  {
+    "number": 22,
+    "filename": "validation_aa_random_forest_absolute_error_1000dpi.png",
+    "category": "absolute_errors",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors\\validation_aa_random_forest_absolute_error_1000dpi.png"
+  },
+  {
+    "number": 23,
+    "filename": "validation_aa_random_forest_actual_vs_predicted_1000dpi.png",
+    "category": "scatter",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter\\validation_aa_random_forest_actual_vs_predicted_1000dpi.png"
+  },
+  {
+    "number": 24,
+    "filename": "validation_aa_random_forest_residual_histogram_1000dpi.png",
+    "category": "residual_histograms",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms\\validation_aa_random_forest_residual_histogram_1000dpi.png"
+  },
+  {
+    "number": 25,
+    "filename": "validation_aa_extra_trees_next_open_1000dpi.png",
+    "category": "next_open",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open\\validation_aa_extra_trees_next_open_1000dpi.png"
+  },
+  {
+    "number": 26,
+    "filename": "validation_aa_extra_trees_target_return_1000dpi.png",
+    "category": "target_return",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return\\validation_aa_extra_trees_target_return_1000dpi.png"
+  },
+  {
+    "number": 27,
+    "filename": "validation_aa_extra_trees_residuals_1000dpi.png",
+    "category": "residuals",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals\\validation_aa_extra_trees_residuals_1000dpi.png"
+  },
+  {
+    "number": 28,
+    "filename": "validation_aa_extra_trees_absolute_error_1000dpi.png",
+    "category": "absolute_errors",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors\\validation_aa_extra_trees_absolute_error_1000dpi.png"
+  },
+  {
+    "number": 29,
+    "filename": "validation_aa_extra_trees_actual_vs_predicted_1000dpi.png",
+    "category": "scatter",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter\\validation_aa_extra_trees_actual_vs_predicted_1000dpi.png"
+  },
+  {
+    "number": 30,
+    "filename": "validation_aa_extra_trees_residual_histogram_1000dpi.png",
+    "category": "residual_histograms",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms\\validation_aa_extra_trees_residual_histogram_1000dpi.png"
+  },
+  {
+    "number": 31,
+    "filename": "validation_aa_xgboost_next_open_1000dpi.png",
+    "category": "next_open",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open\\validation_aa_xgboost_next_open_1000dpi.png"
+  },
+  {
+    "number": 32,
+    "filename": "validation_aa_xgboost_target_return_1000dpi.png",
+    "category": "target_return",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return\\validation_aa_xgboost_target_return_1000dpi.png"
+  },
+  {
+    "number": 33,
+    "filename": "validation_aa_xgboost_residuals_1000dpi.png",
+    "category": "residuals",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals\\validation_aa_xgboost_residuals_1000dpi.png"
+  },
+  {
+    "number": 34,
+    "filename": "validation_aa_xgboost_absolute_error_1000dpi.png",
+    "category": "absolute_errors",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors\\validation_aa_xgboost_absolute_error_1000dpi.png"
+  },
+  {
+    "number": 35,
+    "filename": "validation_aa_xgboost_actual_vs_predicted_1000dpi.png",
+    "category": "scatter",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter\\validation_aa_xgboost_actual_vs_predicted_1000dpi.png"
+  },
+  {
+    "number": 36,
+    "filename": "validation_aa_xgboost_residual_histogram_1000dpi.png",
+    "category": "residual_histograms",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms\\validation_aa_xgboost_residual_histogram_1000dpi.png"
+  },
+  {
+    "number": 37,
+    "filename": "test_unseen_biib_random_forest_next_open_1000dpi.png",
+    "category": "next_open",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open\\test_unseen_biib_random_forest_next_open_1000dpi.png"
+  },
+  {
+    "number": 38,
+    "filename": "test_unseen_biib_random_forest_target_return_1000dpi.png",
+    "category": "target_return",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return\\test_unseen_biib_random_forest_target_return_1000dpi.png"
+  },
+  {
+    "number": 39,
+    "filename": "test_unseen_biib_random_forest_residuals_1000dpi.png",
+    "category": "residuals",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals\\test_unseen_biib_random_forest_residuals_1000dpi.png"
+  },
+  {
+    "number": 40,
+    "filename": "test_unseen_biib_random_forest_absolute_error_1000dpi.png",
+    "category": "absolute_errors",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors\\test_unseen_biib_random_forest_absolute_error_1000dpi.png"
+  },
+  {
+    "number": 41,
+    "filename": "test_unseen_biib_random_forest_actual_vs_predicted_1000dpi.png",
+    "category": "scatter",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter\\test_unseen_biib_random_forest_actual_vs_predicted_1000dpi.png"
+  },
+  {
+    "number": 42,
+    "filename": "test_unseen_biib_random_forest_residual_histogram_1000dpi.png",
+    "category": "residual_histograms",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms\\test_unseen_biib_random_forest_residual_histogram_1000dpi.png"
+  },
+  {
+    "number": 43,
+    "filename": "test_unseen_biib_extra_trees_next_open_1000dpi.png",
+    "category": "next_open",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open\\test_unseen_biib_extra_trees_next_open_1000dpi.png"
+  },
+  {
+    "number": 44,
+    "filename": "test_unseen_biib_extra_trees_target_return_1000dpi.png",
+    "category": "target_return",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return\\test_unseen_biib_extra_trees_target_return_1000dpi.png"
+  },
+  {
+    "number": 45,
+    "filename": "test_unseen_biib_extra_trees_residuals_1000dpi.png",
+    "category": "residuals",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals\\test_unseen_biib_extra_trees_residuals_1000dpi.png"
+  },
+  {
+    "number": 46,
+    "filename": "test_unseen_biib_extra_trees_absolute_error_1000dpi.png",
+    "category": "absolute_errors",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors\\test_unseen_biib_extra_trees_absolute_error_1000dpi.png"
+  },
+  {
+    "number": 47,
+    "filename": "test_unseen_biib_extra_trees_actual_vs_predicted_1000dpi.png",
+    "category": "scatter",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter\\test_unseen_biib_extra_trees_actual_vs_predicted_1000dpi.png"
+  },
+  {
+    "number": 48,
+    "filename": "test_unseen_biib_extra_trees_residual_histogram_1000dpi.png",
+    "category": "residual_histograms",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms\\test_unseen_biib_extra_trees_residual_histogram_1000dpi.png"
+  },
+  {
+    "number": 49,
+    "filename": "test_unseen_biib_xgboost_next_open_1000dpi.png",
+    "category": "next_open",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\next_open\\test_unseen_biib_xgboost_next_open_1000dpi.png"
+  },
+  {
+    "number": 50,
+    "filename": "test_unseen_biib_xgboost_target_return_1000dpi.png",
+    "category": "target_return",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\target_return\\test_unseen_biib_xgboost_target_return_1000dpi.png"
+  },
+  {
+    "number": 51,
+    "filename": "test_unseen_biib_xgboost_residuals_1000dpi.png",
+    "category": "residuals",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residuals\\test_unseen_biib_xgboost_residuals_1000dpi.png"
+  },
+  {
+    "number": 52,
+    "filename": "test_unseen_biib_xgboost_absolute_error_1000dpi.png",
+    "category": "absolute_errors",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\absolute_errors\\test_unseen_biib_xgboost_absolute_error_1000dpi.png"
+  },
+  {
+    "number": 53,
+    "filename": "test_unseen_biib_xgboost_actual_vs_predicted_1000dpi.png",
+    "category": "scatter",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\scatter\\test_unseen_biib_xgboost_actual_vs_predicted_1000dpi.png"
+  },
+  {
+    "number": 54,
+    "filename": "test_unseen_biib_xgboost_residual_histogram_1000dpi.png",
+    "category": "residual_histograms",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\residual_histograms\\test_unseen_biib_xgboost_residual_histogram_1000dpi.png"
+  },
+  {
+    "number": 55,
+    "filename": "random_forest_train_validation_test_unseen_overview_1000dpi.png",
+    "category": "model_overviews",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\model_overviews",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\model_overviews\\random_forest_train_validation_test_unseen_overview_1000dpi.png"
+  },
+  {
+    "number": 56,
+    "filename": "extra_trees_train_validation_test_unseen_overview_1000dpi.png",
+    "category": "model_overviews",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\model_overviews",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\model_overviews\\extra_trees_train_validation_test_unseen_overview_1000dpi.png"
+  },
+  {
+    "number": 57,
+    "filename": "xgboost_train_validation_test_unseen_overview_1000dpi.png",
+    "category": "model_overviews",
+    "directory": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\model_overviews",
+    "full_path": "C:\\Users\\Admin\\Downloads\\algo_trading_fnspid\\outputs\\images\\individual_models\\model_overviews\\xgboost_train_validation_test_unseen_overview_1000dpi.png"
+  }
+]
