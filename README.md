@@ -2,8 +2,6 @@
 
 This project trains one panel model across multiple companies.
 
-One row means:
-
 `ticker + trading day -> next trading day's opening return`
 
 Target:
@@ -40,8 +38,6 @@ data/FNSPID/
             └── ...
 ```
 
-You may also set `FNSPID_DIR` to the FNSPID root folder.
-
 ## Run
 
 ```bash
@@ -50,31 +46,12 @@ pip install -r requirements.txt
 
 Run `preprocessing.ipynb` from top to bottom, then run `train.ipynb` from top to bottom.
 
-Both notebooks default to:
+## The preprocessing pipeline:
 
-```python
-MODE = "full"
-```
-
-Use `MODE = "smoke"` for a quick pipeline test.
-
-## Low-resource behavior
-
-The preprocessing pipeline:
-
-- streams the large news CSV,
-- uses DuckDB when available and pandas chunks as a fallback,
-- extracts only the news fields needed by the model,
-- caches filtered news, FinBERT results, daily sentiment and the panel,
+- streams the news CSV dataset with DuckDB,
+- extracts the news fields,
+- stores filtered news, FinBERT results, daily sentiment and the panel,
 - fingerprints cache inputs so same-row-count but different data does not reuse stale results,
-- detects CPU, RAM, CUDA and free VRAM,
-- benchmarks FinBERT batch size,
-- halves the FinBERT batch size after CUDA OOM,
-- limits model CPU parallelism.
-
-The CPU cap defaults to at most 8 physical cores. Override it with `MAX_CPU_THREADS`.
-
-Parquet is preferred for cache files. If a parquet engine is unavailable, preprocessing falls back to pickle cache files.
 
 ## Data-quality guardrails
 
@@ -87,16 +64,6 @@ If the notebook prints `DuckDB is not installed ...`, install `requirements.txt`
 ## GPU acceleration
 
 FinBERT uses CUDA automatically when the installed PyTorch build can access an NVIDIA GPU. XGBoost probes its own CUDA support independently and verifies the device actually selected, because PyTorch and XGBoost may have different CUDA builds. Random Forest and Extra Trees remain CPU models in scikit-learn.
-
-## FinBERT reproducibility
-
-The model is `ProsusAI/finbert` and the default model revision is pinned to:
-
-```text
-4556d13015211d73dccd3fdd39d39232506f3e43
-```
-
-You may override it with `FINBERT_REVISION`.
 
 ## Company design
 
